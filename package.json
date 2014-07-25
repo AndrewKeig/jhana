@@ -1,0 +1,21 @@
+{
+  "name": "jhana",
+  "version": "0.0.1",
+  "description": "Experimenting with neurosky mindwave and cylon",
+  "main": "index.js",
+  "author": "Andrew Keig <andrew.keig@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhana/jhana.git"
+  },
+  "keywords": [
+    "meditation",
+    "cylon",
+    "neurosky",
+    "mindwave",
+    "robot"
+  ],
+  "dependencies": {
+    "cylon-neurosky": "~0.4.0"
+  }
+}
